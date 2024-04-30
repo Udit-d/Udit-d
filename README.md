@@ -85,7 +85,6 @@ A passionate DevOps enthusiast from India 🇮🇳 , 🌎.
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=2e2decfmecj02kmyoygufteoj&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=2e2decfmecj02kmyoygufteoj&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=06ad00&bar_color_cover=true" /></div>  
 
 <br/>  
 
