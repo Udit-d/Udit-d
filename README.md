@@ -17,10 +17,10 @@ A passionate DevOps enthusiast from India 🇮🇳 , 🌎.
 <br/>  
 
 
-## My Skill Set  
+## Tech Stack  
 
 
-### CodeBase  
+  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -49,7 +49,7 @@ A passionate DevOps enthusiast from India 🇮🇳 , 🌎.
 <br/>  
 
 
-## Connect with me  
+## Let's Connect !  
 <div align="center">
 <a href="https://github.com/udit-d" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -103,4 +103,3 @@ A passionate DevOps enthusiast from India 🇮🇳 , 🌎.
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
