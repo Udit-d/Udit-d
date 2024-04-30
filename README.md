@@ -18,7 +18,7 @@ A passionate DevOps enthusiast from India 🇮🇳 , 🌎.
 
 
 ## Tech Stack  
-  
+<br/> 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -89,6 +89,8 @@ A passionate DevOps enthusiast from India 🇮🇳 , 🌎.
   
 
 <br/>  
+<br/>
+<br/> 
 <br/> 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=udit-d&&style=flat-square" align="center" />
