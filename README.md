@@ -17,10 +17,8 @@ A passionate DevOps enthusiast from India 🇮🇳 , 🌎.
 <br/>  
 
 
-## Tech Stack 
-
-
-### CodeBase  
+## Tech Stack  
+  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -49,7 +47,7 @@ A passionate DevOps enthusiast from India 🇮🇳 , 🌎.
 <br/>  
 
 
-## Wanna Chat ? Let's Connect !  
+## Let's Connect ! 
 <div align="center">
 <a href="https://github.com/udit-d" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -83,11 +81,11 @@ A passionate DevOps enthusiast from India 🇮🇳 , 🌎.
 <br/>  
 
 
-  
+ 
 
 <br/>  
 
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=2e2decfmecj02kmyoygufteoj&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=2e2decfmecj02kmyoygufteoj&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=06ad00&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=2e2decfmecj02kmyoygufteoj&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=2e2decfmecj02kmyoygufteoj&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=06ad00&bar_color_cover=true" /></div>  
 
 <br/>  
 
