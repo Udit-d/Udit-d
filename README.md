@@ -74,27 +74,16 @@ A passionate DevOps enthusiast from India 🇮🇳 , 🌎.
 
 
 ## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udit-d&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=udit-d&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=udit-d&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
-
-<br/>  
-
-
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udit-d&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
+
 
   
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=udit-d&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
 
 <br />
